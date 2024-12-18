@@ -91,7 +91,7 @@ collections:
       - label: "Podcast URL"
         name: "podcast"
         widget: "string"
-        hint: "The URL to the MP3 file containing the podcast's audio. Example: https://arborchurchnw.org/podcast/loving-like-jesus-part-1.mp3"
+        hint: "The URL to the MP3 file containing the podcast's audio. Example: https://calvarytemple.org/podcast/loving-like-jesus-part-1.mp3"
         required: true
       - label: "Podcast size (bytes)"
         name: "podcast_bytes"
