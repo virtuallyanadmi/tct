@@ -1,14 +1,13 @@
 ---
 date: "2023-03-06"
-title: "Cathryn Klein"
-position: "Elder"
+title: "Brandon & Alissa Beatty"
+position: "Custodial & Maintenance Supervisor"
 weight: 20
 email:
 emailname:
 resources:
 - name: photo
-  src: "cathryn.jpg"
+  src: "Brandon-Alissa-Beatty.jpg"
 ---
 
-Cathryn and her husband, Mike, have lived in the Seattle area since they married. They are the proud parents of two amazing adult children and live with a sweet Goldendoodle. She currently works full-time as a bookkeeper at Acres of Diamonds. Her greatest joy in life is to walk with people as they discover their value, worth and purpose in Jesus. She also enjoys making music, gardening, sewing, and laughing with others.
-
+Nisi irure nostrud anim et esse ea adipisicing fugiat consectetur nostrud minim. Occaecat nisi ut Lorem elit irure. Reprehenderit occaecat magna sint ullamco adipisicing aute culpa. Proident occaecat cillum fugiat quis laboris qui ex excepteur esse Lorem ea. Nulla aute non nulla mollit.
