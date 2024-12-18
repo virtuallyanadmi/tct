@@ -7,7 +7,7 @@ emailname:
 weight: 10
 resources:
 - name: photo
-  src: "hayden-small.jpg"
+  src: "marcia.jpg"
 ---
 
 Reprehenderit anim esse culpa duis minim dolore irure culpa fugiat ullamco. Ea nisi sit cillum labore. Dolore velit sunt quis esse consequat consectetur labore nulla ad voluptate velit nostrud laboris. Aliquip ullamco qui eu sunt elit culpa duis. Ea proident nisi eu duis et officia quis sunt duis consequat Lorem duis exercitation.
