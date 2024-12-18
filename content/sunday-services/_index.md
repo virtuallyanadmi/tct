@@ -15,14 +15,14 @@ menu:
 # Welcome
 
 ## Worship Times
-SUNDAY
-Sunday School @ 9:15am
-Worship Service @ 10:15am
+SUNDAY  
+Sunday School @ 9:15am  
+Worship Service @ 10:15am  
 
-WEDNESDAY
-Upper Room Youth Group @ 6:45pm
-Young Adults @ 6:45pm
-Bible Study @ 7:00pm
+WEDNESDAY  
+Upper Room Youth Group @ 6:45pm  
+Young Adults @ 6:45pm  
+Bible Study @ 7:00pm  
 
 ## What to Expect
 We want you to feel at home at Calvary Temple. No matter who you are or where you’ve been, you’re welcome here.
