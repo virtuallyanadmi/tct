@@ -1,0 +1,10 @@
+
+{{ partial "content-header.html" . }}
+
+<!-- render events in reverse order -->
+{{ range .Data.Pages }}
+  {{ .Render "single" }}
+{{ end }}
+
+{{ partial "content-footer.html" . }}
+

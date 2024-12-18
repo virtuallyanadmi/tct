@@ -1,0 +1,17 @@
+name = "Calvary"
+license = "MIT"
+description = "Calvary Temple Website Theme"
+homepage = "https://calvarytemple.org/"
+tags = []
+features = []
+min_version = 0.17
+
+[author]
+  name = "Jonathan McPherson"
+  homepage = "https://about.me/jmcphers/"
+
+# If porting an existing theme
+[original]
+  name = "Arbor"
+  homepage = "https://www.arborchurch.com/"
+  repo = ""

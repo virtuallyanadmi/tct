@@ -1,0 +1,20 @@
+---
+baseURL: "https://thecalvarytemple.org/"
+title: "Calvary Temple"
+languageCode: "en-us"
+theme: "calvary"
+menu:
+  main:
+  - Name: Give
+    URL: https://calvarytemple.churchcenteronline.com/giving?open-in-church-center-modal=true
+    Identifier: Give
+    Weight: 300
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+params:
+  livestream: 
+    enabled: true
+    youtube_id: calvarytemple9808
+---

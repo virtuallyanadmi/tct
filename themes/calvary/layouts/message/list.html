@@ -1,0 +1,31 @@
+<h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+<h4>{{ .Params.speaker }} | {{ .Date.Format "Monday, January 2, 2006" }}</h4>
+
+{{ if isset .Params "youtube_id" }}
+  <div class="message-video-16-9">
+    <iframe class="youtube" src="https://www.youtube.com/embed/{{ .Params.youtube_id }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+  <div class="collapsible">
+    <input id="collapse_{{ .File.UniqueID }}" class="toggle" type="checkbox" />
+    <label for="collapse_{{ .File.UniqueID }}" class="label button" class="btn btn-default">
+      <span class="glyphicon glyphicon-headphones" aria-hidden="true"></span>
+      &nbsp;
+      Listen
+    </label>
+    <a download="" href="{{ .Params.podcast }}" class="button">
+      <span class="glyphicon glyphicon-download" aria-hidden="true"></span>
+      &nbsp;
+      Download Audio
+    </a>
+
+    <div class="content">
+      <audio src="{{ .Params.podcast }}" controls="controls"></audio>
+    </div>
+  </div>
+{{ end }}
+
+<p>{{ .Content }}</p>
+
+{{ if not (isset .Params "youtube_id") }}
+  <audio src="{{ .Params.podcast }}" controls="controls"></audio>
+{{ end }}

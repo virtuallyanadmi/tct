@@ -1,0 +1,54 @@
+.expand-arrow {
+  display: inline-block;
+  background-position: center;
+  background-size: contain;
+}
+
+ul.menu li {
+  padding-left: 0px;
+}
+
+.home-logo, #nav-menu {
+  z-index: 50;
+}
+
+ul.menu ul {
+  padding-top: 20px;
+  padding-bottom: 0px;
+  display: none;
+  overflow: hidden;
+}
+
+ul.menu li.open ul {
+  display: block;
+}
+
+.menu-background {
+  background-color: #83BA23;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  height: 60px;
+  display: none;
+}
+
+.detail-notice {
+  margin-bottom: 20px;
+  padding: 20px;
+}
+
+.home-logo {
+  .find-us {
+    display: block;
+    float: right;
+    margin-top: -2px;
+    margin-left: 20px;
+  }
+  .find-us, .find-us a {
+    color: white;
+    font-size: 14px;
+    letter-spacing: 0.1em;
+    font-family: $header-font;
+  }
+}

@@ -1,0 +1,29 @@
+{{ partial "content-header.html" . }}
+
+<div class="col-sm-12 col-md-8 col-sm-offset-0 col-md-offset-2">
+
+{{ .Content }}
+
+<p>&nbsp;</p>
+
+</div>
+
+
+{{ range $i,$p := .Data.Pages }}
+  {{ if modBool $i 2 }}
+     <div class="row">
+     <div class="col-sm-12 col-md-5 col-md-offset-1 gallery">
+  {{ else }}
+     <div class="col-sm-12 col-md-5 gallery">
+  {{ end }}
+    <p>{{ .Content }}</p>
+    {{ range .Resources.Match "photo" }}
+      <img src="{{ .RelPermalink }}" style="max-width: 100%; margin-bottom: 60px;" />
+    {{ end }}
+  </div>
+  {{ if not (modBool $i 2) }}
+     </div>
+  {{ end }}
+{{ end }}
+
+{{ partial "content-footer.html" . }}

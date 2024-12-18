@@ -1,0 +1,22 @@
+
+<div class="row detail">
+  <div class="col-sm-7 col-md-7">
+    <div class="photocell">
+      {{ $img := $.Page.Resources.GetMatch "header" }}
+      <img class="photo" src="{{ $img.RelPermalink }}">
+    </div>
+  </div>
+  <div class="col-sm-5 col-md-5">
+    <div class="summary">
+      <h2>{{ .Title }}</h2>
+      {{ if isset .Params "leader" }}
+        <h3>Lead: {{ .Params.leader }}</h3>
+      {{ end }}
+      <div class="content">
+        <p>{{ .Content }}</p>
+        <p>Info: <a href="mailto:{{ .Params.email }}">{{ .Params.email }}</a></p>
+      </div>
+    </div>
+  </div>
+</div>
+

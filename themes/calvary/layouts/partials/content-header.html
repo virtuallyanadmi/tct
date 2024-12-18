@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>{{ .Site.Title }} - {{ .Title }}</title>
+  {{ partial "common-head.html" . }}
+</head>
+<body>
+
+{{ partial "menu.html" . }}
+
+<div class="header">
+  {{ $header := .Resources.Match "header"}}
+  {{ if gt (len $header) 0 }}
+    {{ range .Resources.Match "header" }}
+      <img class="desktop-image" src=" {{ .RelPermalink }}" />
+      <div class="mobile-image" style="background-image: url( {{ .RelPermalink }});"></div>
+      {{ end }}
+  {{ else }}
+    <div class="generic-header"></div>
+  {{ end }}
+  <div class="header-content">
+    <div>
+      <h1>{{ .Title }}</h1>
+      <div class="subtitle">
+        {{ .Params.subtitle }}
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container-fluid detail-container">
+

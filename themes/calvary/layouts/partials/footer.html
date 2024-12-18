@@ -1,0 +1,34 @@
+<div class="footer">
+<div class="container">
+  <div class="row">
+    <div class="col-md-4">
+      <h5>Calvary Temple</h5>
+      <p><a href="https://www.google.com/maps/place/Calvary+Temple/@38.7567165,-90.5932229,1169m/data=!3m2!1e3!4b1!4m6!3m5!1s0x87ded61fda816173:0xdca86e7edfe945d1!8m2!3d38.7567123!4d-90.5906426!16s%2Fg%2F1v4ptk48?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoJLDEwMjExMjM0SAFQAw%3D%3D">3930 McClay Rd.<br />
+        St. Charles, MO 63304<br />
+        636-926-2646</a><br />
+        <a href="mailto:calvarytemplestcharles@gmail.com">calvarytemplestcharles@gmail.com</a><br />
+      </p>
+    </div>
+    {{ range .Site.Menus.main }}
+      <div class="col-md-2">
+        <ul class="footer-menu">
+          <li>{{ .Name }}</li>
+          {{ if .HasChildren }}
+          <ul class="sub-menu">
+            {{ range .Children }}
+            <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+            {{ end }}
+          </ul>
+          {{ end }}
+        </ul>
+      </div>
+    {{ end }}
+  </div>
+{{ partial "social-buttons.html" . }}
+</div>
+</div> 
+</div> 
+</body>
+{{ partial "script-libraries.html" . }}
+</html>
+
