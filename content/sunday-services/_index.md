@@ -12,13 +12,32 @@ menu:
     weight: 10
 ---
 
-## Welcome
+# Welcome
 
-On regular Sunday gatherings, we come together to connect with one another, worship God in song, and study the Bible. All are welcome to attend — come as you are and enjoy some free coffee or tea and donut holes as we seek God together.
+## Worship Times
+SUNDAY
+Sunday School @ 9:15am
+Worship Service @ 10:15am
 
-**Date:** Sundays
+WEDNESDAY
+Upper Room Youth Group @ 6:45pm
+Young Adults @ 6:45pm
+Bible Study @ 7:00pm
 
-**Time:** 10:15 AM
+## What to Expect
+We want you to feel at home at Calvary Temple. No matter who you are or where you’ve been, you’re welcome here.
+
+At Calvary Temple, you will be welcomed into a fun, friendly, and casual environment. We want you to have an idea of what to expect when you arrive at a Calvary Temple.
+
+At a Sunday service, you can expect:
+<ul>
+<li>Dress is casual. We want you to come as you are.
+<li>There is plenty of free parking
+<li>Services to last an hour and half.
+<li>Challenging teachings based on the Bible.
+<li>High-energy God focused worship music.
+<li>Fun teaching for your children
+</ul>
 
 **Location:** 3930 McClay Rd., St. Charles, Missouri 63304
 
