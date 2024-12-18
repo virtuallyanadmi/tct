@@ -7,7 +7,7 @@ email:
 emailname:
 resources:
 - name: photo
-  src: "darcy-small.jpg"
+  src: "hunts.jpg"
 ---
 
 Quis qui tempor laboris aliquip dolore exercitation laborum ullamco occaecat ullamco. Et adipisicing cillum nostrud do do sit. Minim ea laborum deserunt eiusmod aliquip cillum ullamco sunt veniam nostrud. Quis officia tempor fugiat enim non do et duis dolor ipsum velit. Ex fugiat commodo ad ad id excepteur pariatur cillum reprehenderit Lorem.
