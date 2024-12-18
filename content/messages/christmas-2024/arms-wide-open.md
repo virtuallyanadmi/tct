@@ -4,7 +4,7 @@ title: "Arms Wide Open"
 series: "christmas-2024"
 speaker: "Scott Mays"
 type: message
-podcast: arms-wide-open.m4a
+podcast: https://pc.virtuallyanadmin.com/arms-wide-open.m4a
 podcast_bytes: 46172257
 podcast_duration: 24:47
 youtube_id: 0gWRFjk1A0k

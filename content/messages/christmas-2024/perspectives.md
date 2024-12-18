@@ -4,7 +4,7 @@ title: "Perspectives"
 series: "christmas-2024"
 speaker: "Scott Mays"
 type: message
-podcast: perspectives.m4a
+podcast: https://pc.virtuallyanadmin.com/perspectives.m4a
 podcast_bytes: 47081310
 podcast_duration: 24:43
 youtube_id: J9GakQvjYiw

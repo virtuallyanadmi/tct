@@ -4,7 +4,7 @@ title: "Nothing is Impossible"
 series: "christmas-2024"
 speaker: "Scott Mays"
 type: message
-podcast: nothing-is-impossible.m4a
+podcast: https://pc.virtuallyanadmin.com/nothing-is-impossible.m4a
 podcast_bytes: 53794588
 podcast_duration: 28:20
 youtube_id: TUWQMczG4YM
