@@ -1,13 +1,13 @@
 {{ partial "content-header.html" . }}
 
-<div class="col-sm-12 col-md-8 col-sm-offset-0 col-md-offset-2">
+<div class="col-sm-12 col-md-8 col-sm-offset-0 col-md-offset-2" align="center">
 
 {{ .Content }}
-
+<br />
 </div>
 
 {{ range $i,$p := .Data.Pages }}
-  {{ if modBool $i 2 }}
+  {{ if modBool $i 1 }}
      <div class="col-sm-12 col-md-5 col-md-offset-1 gallery">
   {{ else }}
      <div class="col-sm-12 col-md-5 gallery">
@@ -20,8 +20,8 @@
   </div>
 {{ end }}
 
-<div class="col-sm-12 col-md-8 col-sm-offset-0 col-md-offset-2">
-
+<div class="col-sm-12 col-md-8 col-sm-offset-0 col-md-offset-2" align="center">
+<br />
 <p style="margin-bottom: 0px;">If you'd like more information about Royal Rangers, email <a href="mailto:calvarytemplestcharles@gmail.com">calvarytemplestcharles@gmail.com</a>.</p>
 
 </div>

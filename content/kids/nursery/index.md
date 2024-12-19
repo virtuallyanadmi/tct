@@ -4,7 +4,10 @@ title: Nursery
 resources:
 - name: photo
   src: nursery-1024x331.jpg
-weight: 1
+menu:
+  main:
+    parent: 'Kids'
+    weight: 1
 ---
 
 When your child comes to Calvary Temple’s nursery they will be cared for with the utmost love and compassion. We love children. All of our nursery workers have undergone background checks. We see children as the future church. They are precious to Jesus and precious to us.

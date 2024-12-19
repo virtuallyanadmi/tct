@@ -1,10 +1,13 @@
 ---
 date: "2024-12-10"
-title: Girls Classes
+title: "Girls Classes"
 resources:
-- name: photo
+- name: header
   src: WebReadyGMLogo.png
-weight: 34
+menu:
+  main:
+    parent: 'Get Involved'
+    weight: 23
 ---
 
 ## Rainbows: Preschool
