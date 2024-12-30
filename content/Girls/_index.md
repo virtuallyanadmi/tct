@@ -16,7 +16,7 @@ Noah’s Ark provides an exciting theme for the Bible stories, crafts, full-colo
 
 ## Daisies: Kindergarten
 
-Darcy, Diana, and Dorie (paper dolls) help Daisies make life applications from the Bible stories and principles they learn. Daisies earn colorful badges depicting these club characters as they complete requirements for the achievement program. Four-week units allow visitors to fit in right away. Club sponsors and girls select the nine units they want to complete during the yea_r._
+Darcy, Diana, and Dorie (paper dolls) help Daisies make life applications from the Bible stories and principles they learn. Daisies earn colorful badges depicting these club characters as they complete requirements for the achievement program. Four-week units allow visitors to fit in right away. Club sponsors and girls select the nine units they want to complete during the year.
 
 ## Prims: 1st & 2nd grade
 
@@ -34,4 +34,4 @@ Friends Club provides discussion-oriented lessons to continue the Titus 2 princi
 
 Girls Only Club gives girls a place to grow in God. Discussion-oriented units include women in ministry, college and career, truth, dating, pro-life vs. pro-choice, and attitude. Six-lesson units are complemented with projects and Adventures. Completion of unit requirements and Bible reading make a girl eligible to be a Girls Only Graduate.
 
-For more information on the programs we offer feel free to visit our National Girls Ministries website: [http://mgc.ag.org/](http://mgc.ag.org/)
+For more information on the programs we offer feel free to visit our National Girls Ministries website: [https://ngm.ag.org/](https://ngm.ag.org/)
