@@ -8,7 +8,7 @@
 
 
 <ul class="image-gallery">
-{{ range .Resources.ByType "image" }}
+{{ range .Page.Resources.ByType "image" }}
   {{- $image := resources.Get (printf "%s/%s" .Name) -}}
   {{- $imageurl := printf "%s/%s" .Name -}}
   {{- $imagetitle := index (split .Name ".") 0 -}}
