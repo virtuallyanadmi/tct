@@ -4,6 +4,8 @@
 
 {{ .Content }}
 
+{{ partial "image-gallery" (dict "context" . "gallery_dir" "/album") }}
+
 </div>
 
 {{ partial "content-footer.html" . }}
