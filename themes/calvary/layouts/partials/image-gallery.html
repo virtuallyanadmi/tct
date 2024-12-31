@@ -6,11 +6,11 @@
     .image-gallery li a img {width: 100%; display: block;}
 </style>
 
-{{ $dir := resources.Match "images" }}
+
 <ul class="image-gallery">
-{{ range (readDir (print $dir)) }}
-  {{- $image := resources.Get (printf "%s/%s" $dir .Name) -}}
-  {{- $imageurl := printf "%s/%s" $dir .Name -}}
+{{ range .Resources.ByType "image" }}
+  {{- $image := resources.Get (printf "%s/%s" .Name) -}}
+  {{- $imageurl := printf "%s/%s" .Name -}}
   {{- $imagetitle := index (split .Name ".") 0 -}}
     <li>
       <a href="{{ ($image.Fit "1600x1600 q50").Permalink }}" title="{{ $imagetitle }}" class="lightbox-image">
