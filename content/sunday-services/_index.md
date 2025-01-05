@@ -4,8 +4,6 @@ title: "Services"
 resources:
 - name: header
   src: what-to-expect.jpg
-- name: garrett
-  src: garrett.jpg
 menu:
   main:
     parent: 'About'
