@@ -10,9 +10,9 @@ menu:
     weight: 30
 ---
 
-##Day
+## Day
 
-1. Genesis 1:1-Genesis 2:17, Matthew 1, Psalms 1
+1. Genesis 1:1-31, Genesis 2:1-17, Matthew 1:1-25, Psalms 1:1-6
 2. Genesis 2:18 - Genesis 4:16, Matthew 2:1-18, Psalms 2
 3. Genesis 4:17 - Genesis 6, Matthew 2:19 - Matthew 3, Psalms 3
 4. Genesis 7 - Genesis 9:17, Matthew 4:1-22, Proverbs 1:1-7
