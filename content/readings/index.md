@@ -45,4 +45,3 @@ menu:
 29. Job 11-14, Matthew 20:1-19, Psalms 17:6-12
 30. Job 15-18, Matthew 20:20-34, Psalms 17:13-15
 31. Job 19-21, Matthew 21:1-17, Psalms 18:1-06
-
