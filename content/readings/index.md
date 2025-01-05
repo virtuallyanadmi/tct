@@ -15,7 +15,7 @@ menu:
 
 1. Genesis 1-2:17, Matthew 1, Psalms 1
 2. Genesis 2:18-4:16, Matthew 2, Psalms 2
-3. Genesis 4:17-6, Matthew 2:19 - Matthew 3, Psalms 3
+3. Genesis 4:17-6:22, Matthew 2:19 - Matthew 3, Psalms 3
 4. Genesis 7-9:17, Matthew 4:1-22, Proverbs 1:1-7
 5. Genesis 9:18-11:9, Matthew 4:23-5:20, Psalms 4
 6. Genesis 11:10-13:18, Matthew 5:21-42, Psalms 5
