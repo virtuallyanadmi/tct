@@ -9,7 +9,7 @@ menu:
     parent: 'Resources'
     weight: 300
 ---
-<h2 style="text-align:center">January</h2>
+<h1 style="text-align:center">January</h1>
 
 <h3 style="text-align:center;">NIV</h3>
 
