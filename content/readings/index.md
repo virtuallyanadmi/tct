@@ -10,7 +10,7 @@ menu:
     weight: 30
 ---
 
-## Day
+<h3 style="text-align:center;">Day</h3>
 
 1. Genesis 1:1-31, Genesis 2:1-17, Matthew 1:1-25, Psalms 1:1-6
 2. Genesis 2:18 - Genesis 4:16, Matthew 2:1-18, Psalms 2
