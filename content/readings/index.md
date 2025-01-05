@@ -10,7 +10,7 @@ menu:
     weight: 30
 ---
 
-<h3 style="text-align:center;">Day</h3>
+<h3 style="text-align:center;">NIV</h3>
 
 
 1. Genesis 1-2:17, Matthew 1, Psalms 1
