@@ -38,10 +38,10 @@ menu:
 23. Genesis 45-47:12, Matthew 16:1-20, Psalms 14
 24. Genesis 47:13-48:22, Matthew 16:21-17:13, Proverbs 3:1-10
 25. Genesis 49-50, Matthew 17:14-18:9, Psalms 15
-26. Job 2-3:26, Matthew 18:10-35, Psalms 16
+26. Job 2-03, Matthew 18:10-35, Psalms 16
 27. Job 4-7:21, Matthew 19:1-15, Psalms 17:1-05
 28. Job 8-10, Matthew 19:16-30, Proverbs 3:11-20
 29. Job 11-14, Matthew 20:1-19, Psalms 17:6-12
 30. Job 15-18, Matthew 20:20-34, Psalms 17:13-15
-31. Job 19-21, Matthew 21:1-17, Psalms 18:1-6
+31. Job 19-21, Matthew 21:1-17, Psalms 18:1-06
 
