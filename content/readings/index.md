@@ -1,14 +1,15 @@
 ---
 date: "2025-01-04"
-title: January Bible Reading Plan
+title: Bible Reading Plan
 resources:
 - name: header
   src: bible.jpg
 menu:
   main:
     parent: 'Resources'
-    weight: 30
+    weight: 300
 ---
+<h2 style="text-align:center">January</h2>
 
 <h3 style="text-align:center;">NIV</h3>
 
