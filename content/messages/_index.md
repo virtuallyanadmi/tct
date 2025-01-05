@@ -7,5 +7,6 @@ resources:
 menu:
   main:
     parent: 'Resources'
+    weight: 100
 ---
 
