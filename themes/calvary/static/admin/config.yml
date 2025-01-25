@@ -60,7 +60,7 @@ collections:
         hint: ""
   - name: "news"
     label: "News"
-    folder: "site/content/news"
+    folder: "content/news"
     create: true
     slug: "{{year}}-{{month}}-{{day}}"
     identifier_field: date
@@ -72,7 +72,7 @@ collections:
   - name: "messages"
     label: Messages
     label_singular: 'Message'
-    folder: site/content/messages
+    folder: content/messages
     create: true
     slug: "{{title}}"
     nested:
