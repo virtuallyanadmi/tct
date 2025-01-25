@@ -4,6 +4,7 @@ backend:
   repo: virtuallyanadmi/tct
   client_id: 'Ov23liA2teaycARJnQgO'
   base_url: 'https://tct.virtuallyanadmin.com'
+  auth_endpoint: /api/auth
 media_folder: "static/img/uploads"
 public_folder: "/img/uploads"
 collections:
