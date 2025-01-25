@@ -4,4 +4,8 @@ title: "Calvary Temple News"
 resources:
 - name: header
   src: trees.jpg
+menu:
+  main:
+    parent: 'About'
+    weight: 40
 ---
