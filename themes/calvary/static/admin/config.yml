@@ -2,6 +2,7 @@ backend:
   name: github
   branch: master
   repo: virtuallyanadmi/tct
+  client_id: 'Ov23liA2teaycARJnQgO'
 media_folder: "static/img/uploads"
 public_folder: "/img/uploads"
 collections:
