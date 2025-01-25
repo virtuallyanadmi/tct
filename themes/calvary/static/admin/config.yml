@@ -10,7 +10,7 @@ public_folder: "/img/uploads"
 collections:
   - name: "event"
     label: "Event"
-    folder: "site/content/events"
+    folder: "content/events"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
