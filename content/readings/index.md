@@ -11,7 +11,7 @@ menu:
 ---
 <h1 style="text-align:center">January</h1>
 
-<h3 style="text-align:center;">NIV</h3>
+<h3 style="text-align:center;">Amplified</h3>
 
 
 1. Genesis 1-2:17, Matthew 1, Psalms 1
