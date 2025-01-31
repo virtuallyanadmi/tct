@@ -10,6 +10,7 @@ menu:
   main:
     parent: 'Get Involved'
     weight: 10
+draft: true
 ---
 
 <div style="text-align: center; margin-bottom: 50px;">
