@@ -7,8 +7,8 @@ features = []
 min_version = 0.17
 
 [author]
-  name = "Jonathan McPherson"
-  homepage = "https://about.me/jmcphers/"
+  name = "Jonathan Stewart"
+  homepage = "https://virtuallyanadmin.com/about"
 
 # If porting an existing theme
 [original]
