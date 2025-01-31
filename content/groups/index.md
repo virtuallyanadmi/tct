@@ -10,11 +10,11 @@ menu:
   main:
     parent: 'Get Involved'
     weight: 10
-draft: true
+draft: false
 ---
 
 <div style="text-align: center; margin-bottom: 50px;">
-  <a href="https://calvarytemple.churchcenter.com/groups">
+  <a href="https://calvarytemple.churchcenter.com/groups?open-in-church-center-modal=true">
     <img width="285" height="110" src="/img/groups-button.png" alt="Sign Up for a Group"/>
   </a>
 </div>
