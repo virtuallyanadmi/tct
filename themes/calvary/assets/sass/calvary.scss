@@ -318,8 +318,7 @@ ul.menu li {
   padding-left: 1em;
 }
 
-.readings-menu {
-  nav {
+nav.readings-menu {
     ul nav-menu{
       li nav-item{
         a nav-link{
@@ -352,8 +351,6 @@ ul.menu li {
       }
     }
   }
-}
-
 
 .mast {
   display: flex;
