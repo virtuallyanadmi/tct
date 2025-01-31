@@ -15,7 +15,7 @@
           {{ range .Parent.Pages.ByWeight }}
             <li class="nav-item">
               <a href="{{ .RelPermalink }}" 
-                 class="nav-link {{ if eq .RelPermalink $currentPage.RelPermalink }}{{ end }}">
+                 class="nav-link {{ if eq .RelPermalink $currentPage.RelPermalink }}bg-blue-600 text-white hover:bg-blue-700{{ end }}">
                 {{ .Title }}
               </a>
             </li>
