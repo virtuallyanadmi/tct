@@ -320,6 +320,7 @@ ul.menu li {
 
 nav.readings-menu {
     ul.nav-menu{
+      list-style-type: none;
       li.nav-item{
         a.nav-link{
           background-color: #454747;
@@ -333,7 +334,6 @@ nav.readings-menu {
           cursor: pointer;
           border-radius: 8px;
           min-width: 135px;
-          list-style: none;
 
           &:hover {
             background-color: #23527e;
