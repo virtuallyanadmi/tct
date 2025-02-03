@@ -11,4 +11,4 @@ menu:
 ---
 # Monthly Bible Reading Plan
 
-## Please select a month from  the list below
+# Please select a month from  the list below
