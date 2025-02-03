@@ -7,7 +7,7 @@ emailname:
 weight: 5
 resources:
 - name: photo
-  src: "scott-small.jpg"
+  src: "PastorScott.png"
 ---
 
 Aliquip magna ullamco nostrud cillum ex adipisicing amet est. Fugiat consectetur dolor sit et labore irure ea non culpa reprehenderit elit sit adipisicing elit. Excepteur anim adipisicing aute irure et consequat aute Lorem labore reprehenderit magna. Commodo irure exercitation tempor sunt deserunt in aliquip.
