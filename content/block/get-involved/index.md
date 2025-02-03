@@ -7,7 +7,7 @@ blockColor: "#909090"
 tagline: "Gathering together in Groups"
 resources:
 - name: backdrop
-  src: side-hug.jpg
+  src: coffeetime.jpg
 - name: groups
   src: groups.png
 - name: daily-posts
