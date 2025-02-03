@@ -10,5 +10,3 @@ menu:
     weight: 300
 ---
 # Monthly Bible Reading Plan
-
-# Please select a month from  the list below
