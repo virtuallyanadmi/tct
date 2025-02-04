@@ -11,7 +11,7 @@
   {{ if modBool $i 2 }}
      <div class="col-sm-6 col-md-5 col-md-offset-1 gallery">
   {{ else }}
-     <div class="col-sm-5 col-md-5 gallery">
+     <!--  <div class="col-sm-5 col-md-5 gallery"> -->
   {{ end }}
     <h2>{{ .Title }}</h2> 
     {{ range .Resources.Match "photo" }}
