@@ -10,6 +10,15 @@
     letter-spacing: 0.15em;
   }
 
+  #video-desktop {
+    display:block;
+
+  }
+
+  #video-mobile {
+    display:none
+  }
+  
   li .expand-arrow {
     background-image: url(../img/desktop-menu-contracted.png);
     width: 10px;
