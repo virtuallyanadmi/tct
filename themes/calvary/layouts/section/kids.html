@@ -6,12 +6,12 @@
 
 </div>
 
-<div class="container-fluid">
+
 {{ range $i,$p := .Data.Pages }}
   {{ if modBool $i 2 }}
-     <div class="col-sm-12 col-md-5 col-md-offset-1 gallery">
+     <div class="col-xs-12 col-md-5 col-md-offset-1 gallery">
   {{ else }}
-     <div class="col-sm-12 col-md-5 gallery">
+     <div class="col-xs-12 col-md-5 gallery">
   {{ end }}
     <h2>{{ .Title }}</h2> 
     {{ range .Resources.Match "photo" }}
@@ -20,7 +20,7 @@
     <p>{{ .Content }}</p>
   </div>
 {{ end }}
-</div>
+
 <div style="text-align:center">
 
 <p style="margin-bottom: 0px;">If you'd like more information about Royal Rangers, email <a href="mailto:calvarytemplestcharles@gmail.com">calvarytemplestcharles@gmail.com</a>.</p>
