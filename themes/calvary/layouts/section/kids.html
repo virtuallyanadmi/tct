@@ -6,8 +6,9 @@
 
 </div>
 
+<div class="container-fluid">
 {{ range $i,$p := .Data.Pages }}
-  {{ if modBool $i 1 }}
+  {{ if modBool $i 2 }}
      <div class="col-sm-12 col-md-5 col-md-offset-1 gallery">
   {{ else }}
      <div class="col-sm-12 col-md-5 gallery">
@@ -19,8 +20,8 @@
     <p>{{ .Content }}</p>
   </div>
 {{ end }}
-
-<div class="col-sm-12 col-md-8 col-sm-offset-0 col-md-offset-2">
+</div>
+<div style="text-align:center">
 
 <p style="margin-bottom: 0px;">If you'd like more information about Royal Rangers, email <a href="mailto:calvarytemplestcharles@gmail.com">calvarytemplestcharles@gmail.com</a>.</p>
 
