@@ -9,9 +9,9 @@
 
 {{ range $i,$p := .Data.Pages }}
   {{ if modBool $i 2 }}
-     <div class="col-sm-6 col-md-6 col-md-offset-1 gallery">
+     <div class="col-sm-6 col-md-4 col-md-offset-1 gallery">
   {{ else }}
-     <div class="col-sm-6 col-md-6 gallery">
+     <div class="col-sm-6 col-md-4 gallery">
   {{ end }}
     <h2>{{ .Title }}</h2> 
     {{ range .Resources.Match "photo" }}
